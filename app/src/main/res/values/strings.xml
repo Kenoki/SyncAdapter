@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Crunch Expenses</string>
+
+    <string name="action_sync">Sincronizar</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="account_type">com.herprogramacion.crunch_expenses.account</string>
+    <string name="provider_authority">com.herprogramacion.crunch_expenses</string>
+
+    <string name="empty_list">No hay datos</string>
+
+    <string name="title_activity_detail">Nuevo gasto</string>
+    <string name="monto_hint">Monto</string>
+    <string name="descripcion_hint">Descripción</string>
+    <string name="etiqueta_title">Etiqueta</string>
+    <string name="fecha_title">Fecha</string>
+    <string-array name="etiquetas">
+        <item>Comida</item>
+        <item>Transporte</item>
+        <item>Diversión</item>
+    </string-array>
+    <string name="boton">AGREGAR GASTO</string>
+</resources>
